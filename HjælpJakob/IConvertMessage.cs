@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HjælpJakob
 {
-    interface ConvertMessage
+    interface IConvertMessage
     {
         string ConvertMessage(string planeText);
     }

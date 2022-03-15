@@ -9,7 +9,7 @@ namespace HjælpJakob
         static void Main(string[] args)
         {
             Message message = new Message("test", "me", "test", "Subject2", "testcc");
-            ConvertMessage convertMessageToHtml = new ConvertMessageToHtml();
+            IConvertMessage convertMessageToHtml = new ConvertMessageToHtml();
             message.Body = convertMessageToHtml.ConvertMessage(message.Body);
 
             SendMessage sendMessage = new SendMessage(message);

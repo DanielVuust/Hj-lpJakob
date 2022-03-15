@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HjælpJakob
 {
-    class ConvertMessageToHtml : ConvertMessage
+    class ConvertMessageToHtml : IConvertMessage
     {
         public string ConvertMessage(string plainText)
         {
