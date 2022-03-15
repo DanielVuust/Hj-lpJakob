@@ -1,0 +1,16 @@
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\bin\Debug\net5.0\HjælpJakob.exe
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\bin\Debug\net5.0\HjælpJakob.deps.json
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\bin\Debug\net5.0\HjælpJakob.runtimeconfig.json
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\bin\Debug\net5.0\HjælpJakob.runtimeconfig.dev.json
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\bin\Debug\net5.0\HjælpJakob.dll
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\bin\Debug\net5.0\ref\HjælpJakob.dll
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\bin\Debug\net5.0\HjælpJakob.pdb
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\obj\Debug\net5.0\HjælpJakob.csproj.AssemblyReference.cache
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\obj\Debug\net5.0\HjælpJakob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\obj\Debug\net5.0\HjælpJakob.AssemblyInfoInputs.cache
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\obj\Debug\net5.0\HjælpJakob.AssemblyInfo.cs
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\obj\Debug\net5.0\HjælpJakob.csproj.CoreCompileInputs.cache
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\obj\Debug\net5.0\HjælpJakob.dll
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\obj\Debug\net5.0\ref\HjælpJakob.dll
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\obj\Debug\net5.0\HjælpJakob.pdb
+C:\Users\davu\source\repos\Skole\H2\Solid\HjælpJakob\HjælpJakob\obj\Debug\net5.0\HjælpJakob.genruntimeconfig.cache
